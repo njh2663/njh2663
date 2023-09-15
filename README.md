@@ -1,23 +1,31 @@
-I'm Jeahyeok Nam, Junior Data Scientist.
-  
+## JaeHyeok Nam
+Hi, I'm Junior Data Scientist. <br/>
+Contact for e-mail : skawogur987@naver.com <br/>
+<br/>
 
-<h3 align="center">🛠 Stack 🛠</h3>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor={276DC3}"/><img src="https://img.shields.io/badge/RStudio-skyblue?style=flat&logo=R&logoColor={75AADB}"/>
-Power BI
+## 🤵 My Career
+2012.03 ~ 2015.02 제물포고등학교 졸업 <br/> 
+2015.03 ~ 2021.08 인하대학교 통계학과 졸업 <br/> 
+2022.09 ~  BA Korea <br/> 
+<br/> 
 
-<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>&nbsp 
+## 🛠 Stack 🛠
+- Python
+- R
+- SQL
+- PowerBI
+- QGIS
+<br/>
 
-<img src="https://img.shields.io/badge/Google Colab-black?style=flat&logo=Google Colab&logoColor="/>
-<img src="https://img.shields.io/badge/Jupyter-black?style=flat&logo=Jupyter&logoColor={F37626}"/>
-VS Code
+## 🔊 I'm...
+- 한 가지 일에 몰두하는 타입입니다.  
+- 꼼꼼하고 꾸준한 사람입니다.  
+- 사람들과의 관계를 즐깁니다.
+<br/>
 
-
-
-<h3 align="center"> 	 🤵 My Career 🤵 </h3> <br/>
-  
- ```
--1 : 1
-
--1 : 2
-
- ```
+## 📌 Certificate
+- 데이터분석준전문가(ADsP)
+- SQL 개발자(SQLD)
+- 사회조사분석사 2급
+- 정보처리기능사
+<br/>
