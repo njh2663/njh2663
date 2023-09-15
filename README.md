@@ -1,4 +1,4 @@
-<h3 align="center"> I'm Jeahyeok Nam, Junior Data Scientist.
+I'm Jeahyeok Nam, Junior Data Scientist.
   
 
 <h3 align="center">🛠 Stack 🛠</h3>
