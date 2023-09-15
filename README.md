@@ -1,16 +1,23 @@
-### Hi there 👋
+<h3 align="center"> I'm Jeahyeok Nam, Junior Data Scientist.
+  
 
-<!--
-**njh2663/njh2663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠 Stack 🛠</h3>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor={276DC3}"/><img src="https://img.shields.io/badge/RStudio-skyblue?style=flat&logo=R&logoColor={75AADB}"/>
+Power BI
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>&nbsp 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Google Colab-black?style=flat&logo=Google Colab&logoColor="/>
+<img src="https://img.shields.io/badge/Jupyter-black?style=flat&logo=Jupyter&logoColor={F37626}"/>
+VS Code
+
+
+
+<h3 align="center"> 	 🤵 My Career 🤵 </h3> <br/>
+  
+ ```
+-1 : 1
+
+-1 : 2
+
+ ```
