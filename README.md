@@ -1,6 +1,6 @@
 ## JaeHyeok Nam
-###### Hi, I'm Junior Data Scientist.
-###### Contact for e-mail : skawogur987@naver.com
+#### Hi, I'm Junior Data Scientist.
+#### Contact for e-mail : skawogur987@naver.com
 <br/>
 
 ## 🤵 My Career
