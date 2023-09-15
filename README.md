@@ -1,13 +1,13 @@
 ## JaeHyeok Nam
-Hi, I'm Junior Data Scientist. <br/>
-Contact for e-mail : skawogur987@naver.com <br/>
+###### Hi, I'm Junior Data Scientist.
+###### Contact for e-mail : skawogur987@naver.com
 <br/>
 
 ## 🤵 My Career
-2012.03 ~ 2015.02 제물포고등학교 졸업 <br/> 
-2015.03 ~ 2021.08 인하대학교 통계학과 졸업 <br/> 
-2022.09 ~  BA Korea <br/> 
-<br/> 
+##### 2012.03 ~ 2015.02 제물포고등학교 졸업
+##### 2015.03 ~ 2021.08 인하대학교 통계학과 졸업
+##### 2022.09 ~  BA Korea
+
 
 ## 🛠 Stack 🛠
 - Python
