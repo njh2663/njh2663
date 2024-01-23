@@ -6,7 +6,7 @@ Contact for e-mail : skawogur987@naver.com <br/>
 ## 🤵 My Career
 2012.03 ~ 2015.02 : 제물포고등학교 졸업 <br/>
 2015.03 ~ 2021.08 : 인하대학교 통계학과 졸업 <br/>
-2022.09 ~ now : BA Korea <br/>
+2022.09 ~ 2023.12 : BA Korea <br/>
 
 
 ## 🛠 Stack 🛠
